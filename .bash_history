@@ -1,0 +1,3 @@
+git
+sudo su -
+exit
